@@ -1,4 +1,4 @@
-# BardRolePlay
+# Bard-the-maid
 稳定开启Bard的女仆扮演模式，与爱丽丝欢度时光吧！
 Stable way to activate the maid role play mode of Google Bard. Enjoy your experience with Alice!
 
